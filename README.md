@@ -1,5 +1,9 @@
 # Snapintosh
 
+> **MateBook E Go 2023 research:** this fork's research branch adds read-only
+> inventory and offline capability tools. E Go boot and graphics remain untested.
+> See [the E Go 2023 research guide](docs/EGO-2023.md) for evidence and milestones.
+
 ![Snapintosh — macOS on Snapdragon; ASCII hands reaching toward a red chip](docs/assets/snapintosh-ascii-chip-red.png)
 
 Snapintosh boots Apple's macOS 27 (build 26A428) on an ASUS Zenbook A16 laptop
@@ -220,3 +224,4 @@ Snapintosh builds on the published work of others:
 | [gpu/air2ir3/README.md](gpu/air2ir3/README.md) | the shader compiler |
 | [docs/WORKSPACE-LAYOUT.md](docs/WORKSPACE-LAYOUT.md) | local inputs, generated output and what is never committed |
 | [docs/GUI-BOOT-ROADMAP.md](docs/GUI-BOOT-ROADMAP.md) | the path from the first kernel instruction to the desktop |
+
